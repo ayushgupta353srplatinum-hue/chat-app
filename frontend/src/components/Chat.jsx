@@ -69,7 +69,7 @@ export default function Chat({ user }) {
         />
 
         <button className="button" onClick={sendMessage}>
-          Send 💬
+          Send 
         </button>
       </div>
     </div>

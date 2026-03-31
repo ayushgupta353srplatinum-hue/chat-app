@@ -25,7 +25,7 @@ export default function Join({ setUser }) {
           className="button"
           onClick={() => setUser({ username: name, room })}
         >
-          Join Room 🚀
+          Join Room 
         </button>
       </div>
     </div>
