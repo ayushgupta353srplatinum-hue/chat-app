@@ -7,8 +7,8 @@ This app allows users to communicate instantly with multiple users using WebSock
 
 ##  Live Demo
 
-*  Frontend: https://chat-app-xxxx.vercel.app
-*  Backend: https://chat-app-eez0.onrender.com
+*  Frontend: [https://chat-app-xxxx.vercel.app](https://chat-app-ashen-rho.vercel.app/)
+*  Backend: [https://chat-app-eez0.onrender.com](https://chat-app-eez0.onrender.com)
 
 ---
 
