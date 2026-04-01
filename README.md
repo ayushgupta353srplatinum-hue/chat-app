@@ -102,3 +102,7 @@ npm run dev
 2. Enter different usernames
 3. Join the same room
 4. Send messages and see real-time updates
+
+Desktop view
+[](week-12SS.png)
+
