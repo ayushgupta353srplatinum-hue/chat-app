@@ -104,5 +104,5 @@ npm run dev
 4. Send messages and see real-time updates
 
 Desktop view
-[](week-12SS.png)
+![Website Screenshot](week-12SS.png)
 
